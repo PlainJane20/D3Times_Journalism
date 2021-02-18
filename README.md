@@ -20,4 +20,10 @@ Scatter plot between two of the data variables such as `Healthcare vs. Poverty` 
 ### Running
 Due to loading in a csv file, many browsers will fail to load this unless run on an http server.  This project was developed with the `python -m http.server` method.
 
+# Features:
+* Javascript
+  * D3.js
+  * SVG
+* HTML and CSS3
+
 ### [Navi Sohi](https://github.com/PlainJane20) | Data Analytics & Visualization
